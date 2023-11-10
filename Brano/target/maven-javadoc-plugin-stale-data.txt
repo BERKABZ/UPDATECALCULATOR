@@ -1,0 +1,58 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/WS/Downloads/CalculatorGUI-main/Brano/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/WS/Downloads/CalculatorGUI-main/Brano/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Brano 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Brano 1.0-SNAPSHOT API'
+com.mycompany.brano
+'C:/Users/WS/Downloads/CalculatorGUI-main/Brano/src/main/java/Arano.java'
+'C:/Users/WS/Downloads/CalculatorGUI-main/Brano/src/main/java/MainBrano.java'
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\src\main\java\Arano.form = 1699592983776
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\src\main\java\Arano.java = 1699592983795
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\src\main\java\MainBrano.form = 1699464164000
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\src\main\java\MainBrano.java = 1699464164000
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\src\main\java = 1699464164000
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\allclasses-index.html = 1699593021364
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\allpackages-index.html = 1699593021369
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\Arano.html = 1699593021102
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\copy.svg = 1699593021424
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\element-list = 1699593021191
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\help-doc.html = 1699593021414
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\index-all.html = 1699593021397
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\index.html = 1699593021339
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\MainBrano.html = 1699593021188
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\member-search-index.js = 1699593021379
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\module-search-index.js = 1699593021372
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\overview-summary.html = 1699593021406
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\overview-tree.html = 1699593021333
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\package-search-index.js = 1699593021374
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\package-summary.html = 1699593021208
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\package-tree.html = 1699593021218
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\package-use.html = 1699593021320
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\script.js = 1699593021422
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\search-page.js = 1699593021431
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\search.html = 1699593021402
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\search.js = 1699593021428
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\serialized-form.html = 1699593021290
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\stylesheet.css = 1699593021419
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\tag-search-index.js = 1699593021381
+C:\Users\WS\Downloads\CalculatorGUI-main\Brano\target\site\apidocs\type-search-index.js = 1699593021376
